@@ -1,10 +1,10 @@
 # Sistema Integral de Gestión - Software FJ
 **Curso:** Programación (213023) - UNAD  
-**Actividad:** Fase 4 - Componente Práctico (Prácticas Simuladas)  
+**Actividad:** Fase 4 - Componente Práctico  
 **Estudiante:** Bryan Duarte Orduz  
 
 ## Descripción del Proyecto
-Sistema orientado a objetos desarrollado en Python para gestionar clientes, servicios (reservas de salas, alquiler de equipos y asesorías especializadas) y reservas sin bases de datos. Implementa clases abstractas, herencia, polimorfismo, encapsulación, manejo avanzado de excepciones y registro de eventos en archivo de logs.
+Sistema desarrollado en Python para gestionar clientes, servicios (reservas de salas, alquiler de equipos y asesorías especializadas) y reservas sin bases de datos. Implementa clases abstractas, herencia, polimorfismo, encapsulación, manejo avanzado de excepciones y registro de eventos en archivo de logs.
 
 ## Estructura del Proyecto
 - `excepciones.py`: Jerarquía de excepciones personalizadas.
